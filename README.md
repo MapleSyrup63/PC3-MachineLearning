@@ -1,4 +1,4 @@
-*Arquitectura de Componentes de la implementación*
+# Arquitectura de Componentes de la implementación
 
 ### Arquitectura del Sistema
 
