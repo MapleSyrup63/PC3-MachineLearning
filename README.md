@@ -51,3 +51,7 @@ Las predicciones se comunican mediante el módulo de síntesis de voz.
 - Al hacer uso del robot físico, se deberá acercar un objeto o imagen correspondiente a la cámara del NAO cada 10 segundos en un lapso de 2 minutos, para que pueda tomar las capturas.
 - Por consola y mediante los altavoces del robot se mencionará la respuesta de la predicción que haga a partir de la captura.
 - Pasados los 2 minutos, el programa finalizará.
+
+# Vídeo de la solución
+
+Link del vídeo: [Video](https://www.youtube.com/watch?v=zUt82hoqFAs)
